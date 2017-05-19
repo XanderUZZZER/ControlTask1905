@@ -10,6 +10,9 @@ namespace ControlTask1905
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Control task 1905");
+
+            Console.ReadLine();
         }
     }
 }
